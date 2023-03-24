@@ -1,0 +1,13 @@
+TIPO DE BBDD
+
+
+INFO STORAGE
+
+
+VNET 
+
+-
+> Subnets (3)
+-
+-
+-
